@@ -1,0 +1,20 @@
+# Core RAG Dependencies
+chromadb==0.4.22
+langchain==0.1.0
+langchain-community==0.0.13
+sentence-transformers==2.3.1
+vector_store
+# LLM
+groq
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# UI
+streamlit==1.31.0
+
+python-dotenv==1.0.0
+tiktoken==0.5.2
+numpy
+protobuf
